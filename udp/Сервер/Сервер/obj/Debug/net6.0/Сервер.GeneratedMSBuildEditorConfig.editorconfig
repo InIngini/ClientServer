@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Сервер
-build_property.ProjectDir = C:\Users\vorob\source\repos\udp\Сервер\Сервер\
+build_property.ProjectDir = C:\Users\vorob\source\repos\ClientServer\udp\Сервер\Сервер\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
